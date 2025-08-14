@@ -24,5 +24,8 @@
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
     We are storing Artifacts in Nexus Successfully!!!
 </h1>
+<h1 style="font-weight: bold; color: pink; font-size: 30px; text-align: center;">
+    We have successfuly Setup the tomcat server into the  Artifactory Tool!!!
+</h1>
 </body>
 </html>
